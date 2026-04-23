@@ -1,3 +1,4 @@
 - Thêm 3 views trong csdl
 - Thêm nút in hóa đơn trong FormPayment và FormServiceOrders
 - Thêm nút in báo cáo trong FormServiceRevenue và FormRooms
+- For some reason, hóa đơn trong FormServiceOrders và báo cáo dịch vụ trong FormServiceRevenue không chạy, tôi chịu
